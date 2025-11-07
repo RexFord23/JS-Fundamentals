@@ -1,12 +1,12 @@
 // creating first line
-let line1 = "C is fun";
+let firstline = "C is fun";
 
-//creating seconf line
-let line2 = "Python is cool";
+//creating second line
+let secondline = "Python is cool";
 
 // creating third line
-let line3 = "JacaScript is amazing";
+let thirdline = "JavaScript is amazing";
 
-console.log(line1);
-console.log(line2);
-console.log(line3);
+console.log(firstline);
+console.log(secondline);
+console.log(thirdline);
