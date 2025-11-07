@@ -1,11 +1,11 @@
 // creating first line
-let firstline = "C is fun";
+let line1 = "C is fun";
 
 //creating seconf line
-let secondline = "Python is cool";
+let line2 = "Python is cool";
 
 // creating third line
-let thirdline = "JacaScript is amazing";
+let line3 = "JacaScript is amazing";
 
 console.log(firstline);
 console.log(secondline);
