@@ -7,6 +7,6 @@ let line2 = "Python is cool";
 // creating third line
 let line3 = "JacaScript is amazing";
 
-console.log(firstline);
-console.log(secondline);
-console.log(thirdline);
+console.log(line1);
+console.log(line2);
+console.log(line3);
