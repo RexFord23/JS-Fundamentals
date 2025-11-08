@@ -1,10 +1,10 @@
-// creating first line
+// creating first line script
 let firstline = "C is fun";
 
-//creating second line
+//creating second line script
 let secondline = "Python is cool";
 
-// creating third line
+// creating third line script
 let thirdline = "JavaScript is amazing";
 
 console.log(firstline);
