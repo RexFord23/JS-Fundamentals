@@ -1,7 +1,7 @@
 const languages = ['C is fun', 'Python is cool', 'Javascript is amazing'];
 
 let i = 0;
-while(i < languages.length){
+while (i < languages.length){
     console.log(languages[i]);
     i++
 }
